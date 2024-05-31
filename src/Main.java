@@ -8,7 +8,7 @@ public class Main {
         Page_Principale application=new Page_Principale();
         application.setContentPane(application.panelMain);
         application.setTitle(" GoFind ");
-        application.setSize(1500,850);
+        application.setSize(1500,750);
         application.setVisible(true);
         application.setResizable(true);
         application.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
